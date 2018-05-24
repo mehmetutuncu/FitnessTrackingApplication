@@ -1,0 +1,79 @@
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\x86\sqlite3.dll
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\x64\sqlite3.dll
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\Fitness Tracking Application.exe.config
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\Fitness Tracking Application.exe
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\Fitness Tracking Application.pdb
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\EntityFramework.dll
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\System.Data.SQLite.dll
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\EntityFramework.xml
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\System.Data.SQLite.xml
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness Tracking Application.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Frm_AnaForm.resources
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Frm_YeniUye.resources
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness Tracking Application.csproj.GenerateResource.Cache
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness Tracking Application.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness Tracking Application.exe
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness Tracking Application.pdb
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Frm_TarifeKayit.resources
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Frm_UyeGoruntule.resources
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Frm_TarifeGoruntule.resources
+C:\Users\Mehmet\Desktop\PROJELERİM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Frm_UyeTarifeEkle.resources
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\x86\sqlite3.dll
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\x64\sqlite3.dll
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\Fitness Tracking Application.exe.config
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\Fitness Tracking Application.exe
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\Fitness Tracking Application.pdb
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\EntityFramework.dll
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\System.Data.SQLite.dll
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\EntityFramework.xml
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\System.Data.SQLite.xml
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness Tracking Application.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Frm_AnaForm.resources
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Frm_TarifeGoruntule.resources
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Frm_TarifeKayit.resources
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Frm_UyeGoruntule.resources
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Frm_UyeTarifeEkle.resources
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Frm_YeniUye.resources
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness Tracking Application.csproj.GenerateResource.Cache
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness Tracking Application.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness Tracking Application.exe
+C:\Users\Mehmet\Desktop\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness Tracking Application.pdb
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\x86\sqlite3.dll
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\x64\sqlite3.dll
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\Fitness Tracking Application.exe.config
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\Fitness Tracking Application.exe
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\Fitness Tracking Application.pdb
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\EntityFramework.dll
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\System.Data.SQLite.dll
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\EntityFramework.xml
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\System.Data.SQLite.xml
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness Tracking Application.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Frm_AnaForm.resources
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Frm_TarifeGoruntule.resources
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Frm_TarifeKayit.resources
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Frm_UyeGoruntule.resources
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Frm_UyeTarifeEkle.resources
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Frm_YeniUye.resources
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness_Tracking_Application.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness Tracking Application.csproj.GenerateResource.cache
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness Tracking Application.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness Tracking Application.csproj.CopyComplete
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness Tracking Application.exe
+C:\Users\Mehmet\Desktop\Hatırlatıcılar\PROJELERIM\Fitness Tracking Application\Fitness Tracking Application\Fitness Tracking Application\obj\Debug\Fitness Tracking Application.pdb
